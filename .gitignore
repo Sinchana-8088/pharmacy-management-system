@@ -1,0 +1,23 @@
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Java compiled files
+*.class
+bin/
+build/
+
+# Tomcat
+work/
+temp/
+logs/
+
+# Database / local configuration
+*.sql
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db

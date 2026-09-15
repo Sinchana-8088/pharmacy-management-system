@@ -1,0 +1,30 @@
+#datatable{
+    background-color: white;
+    width: 80%;
+   box-shadow: 0px 0px 5px gray;
+}
+
+#datatable th{
+	padding: 10px;
+    background-color: burlywood;
+    color: white;
+    text-align: center;
+}
+#datatable td{
+	text-align: center;
+    padding: 10px;
+}
+#datatable tr:hover{
+	background-color: #ffffcc;
+}
+
+#datatable a{
+	text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+}
+#datatable a:hover{
+	background-color: #005900;
+}
